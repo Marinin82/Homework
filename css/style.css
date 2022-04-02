@@ -1,0 +1,40 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+.main_container {
+    width: 1600px;
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.header {
+    height: 80px;
+}
+.logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    display: flex;
+    padding: 25px 0 25px 215px;
+}
+.logo_blue {
+    color: #2196F3;
+}
+.logo_black {
+    color: #000000;
+}
+.header_link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+}
